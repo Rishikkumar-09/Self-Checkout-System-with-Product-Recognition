@@ -76,6 +76,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+![WhatsApp Image 2025-02-10 at 7 12 39 PM](https://github.com/user-attachments/assets/5e6fd50a-022a-4cad-89e0-963d67852ca2)
+![WhatsApp Image 2025-02-10 at 7 10 06 PM](https://github.com/user-attachments/assets/4d7829c9-7b68-4c53-87d3-5add4d889510)
 
 ---
 
